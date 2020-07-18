@@ -1,0 +1,70 @@
+header{
+  background:grey;
+  height:140px
+}
+.logo {
+  text-align:center;
+  font-size: 45px;
+  padding: 20px 0 0 0;
+  font-family: 'Helvetica', sans-serif;
+  font-weight: 800;
+}
+
+body{
+  font-family:'Courier New', Courier, monospace;
+  margin:0;
+}
+
+h1{
+  font-size: 28px;
+  font-family: 'Helvetica', sans-serif;
+}
+
+h2{
+  font-family: 'Courier New','Helvetica', sans-serif;
+  font-size: 18px;
+  font-weight:100
+}
+
+section  {
+  margin: 80px;
+  padding: 0 25%;
+
+}
+li {
+   line-height: 1.5em}
+
+ol, p{
+    text-align: justify;
+}
+h1, h2{
+  text-align:center
+} 
+
+header, h2{
+  color:whitesmoke;
+}
+footer p{
+  margin: 50 0 0 0px;
+  padding: 10px;
+  background:grey;
+  color: #fff;	
+	text-align: justify;
+}
+
+a {
+	font-weight: 700;
+}
+a:link { color:blue; }
+a:visited { color:red; }
+a:hover { color:lightblue; }
+a:active { color:purple; }
+a:hover {
+	text-decoration: underline;	
+}
+
+img, iframe { 
+  width: 100%;	
+  border-radius: 8px;
+  border: 1px solid #c5c0b8;
+} 
